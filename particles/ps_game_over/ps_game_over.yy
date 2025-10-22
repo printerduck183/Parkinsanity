@@ -1,0 +1,25 @@
+{
+  "$GMParticleSystem":"",
+  "%Name":"ps_game_over",
+  "backdropHeight":768,
+  "backdropImageOpacity":0.5,
+  "backdropImagePath":"",
+  "backdropWidth":1366,
+  "backdropXOffset":0.0,
+  "backdropYOffset":0.0,
+  "drawOrder":0,
+  "emitters":[
+    {"$GMPSEmitter":"","%Name":"GM_Fire","additiveBlend":false,"directionIncrease":0.0,"directionMax":105.0,"directionMin":75.0,"directionWiggle":2.5,"distribution":1,"editorColour":16777215,"editorDrawShape":true,"emitCount":-2,"emitDelayMax":0.0,"emitDelayMin":0.0,"emitDelayUnits":0,"emitIntervalMax":0.0,"emitIntervalMin":0.0,"emitIntervalUnits":0,"enabled":true,"endColour":145,"GMPresetName":"","gravityDirection":270.0,"gravityForce":0.005,"headPosition":0.0,"lifetimeMax":30.0,"lifetimeMin":10.0,"linkedEmitter":null,"locked":false,"midColour":3372251135,"mode":0,"name":"GM_Fire","orientationIncrease":0.0,"orientationMax":0.0,"orientationMin":0.0,"orientationRelative":false,"orientationWiggle":1.0,"regionH":1.0,"regionW":1.0,"regionX":0.0,"regionY":0.0,"resourceType":"GMPSEmitter","resourceVersion":"2.0","scaleX":0.25,"scaleY":0.25,"shape":0,"sizeIncrease":0.02,"sizeMax":1.5,"sizeMin":1.0,"sizeWiggle":0.1,"spawnOnDeathCount":0,"spawnOnDeathGMPreset":null,"spawnOnDeathId":null,"spawnOnUpdateCount":0,"spawnOnUpdateGMPreset":null,"spawnOnUpdateId":null,"speedIncrease":0.005,"speedMax":0.5,"speedMin":0.5,"speedWiggle":0.25,"spriteAnimate":false,"spriteId":null,"spriteRandom":false,"spriteStretch":true,"startColour":4278254335,"texture":11,},
+  ],
+  "name":"ps_game_over",
+  "parent":{
+    "name":"Particle Systems",
+    "path":"folders/Particle Systems.yy",
+  },
+  "resourceType":"GMParticleSystem",
+  "resourceVersion":"2.0",
+  "showBackdrop":true,
+  "showBackdropImage":false,
+  "xorigin":0,
+  "yorigin":0,
+}

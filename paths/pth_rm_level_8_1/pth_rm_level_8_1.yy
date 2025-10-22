@@ -1,0 +1,27 @@
+{
+  "$GMPath":"",
+  "%Name":"pth_rm_level_8_1",
+  "closed":false,
+  "kind":1,
+  "name":"pth_rm_level_8_1",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":400.0,"y":688.0,},
+    {"speed":100.0,"x":388.43832,"y":559.2971,},
+    {"speed":100.0,"x":399.0,"y":512.0,},
+    {"speed":100.0,"x":421.99997,"y":488.05054,},
+    {"speed":100.0,"x":467.8356,"y":482.61218,},
+    {"speed":100.0,"x":540.0,"y":525.0,},
+    {"speed":100.0,"x":627.0,"y":626.0,},
+    {"speed":100.0,"x":730.0,"y":597.0,},
+    {"speed":100.0,"x":803.0,"y":640.0,},
+    {"speed":100.0,"x":818.0,"y":710.0,},
+    {"speed":100.0,"x":792.0,"y":840.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

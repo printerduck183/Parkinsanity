@@ -1,0 +1,5 @@
+
+if (!freeze)
+{
+	Crash(other);
+}

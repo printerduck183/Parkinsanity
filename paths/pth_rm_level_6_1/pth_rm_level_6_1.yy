@@ -1,0 +1,26 @@
+{
+  "$GMPath":"",
+  "%Name":"pth_rm_level_6_1",
+  "closed":false,
+  "kind":1,
+  "name":"pth_rm_level_6_1",
+  "parent":{
+    "name":"Paths",
+    "path":"folders/Paths.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":782.0,"y":-113.0,},
+    {"speed":100.0,"x":788.0,"y":2.0,},
+    {"speed":100.0,"x":788.2041,"y":72.83272,},
+    {"speed":100.0,"x":730.0,"y":120.0,},
+    {"speed":100.0,"x":596.0,"y":124.0,},
+    {"speed":100.0,"x":482.0,"y":117.0,},
+    {"speed":100.0,"x":370.6159,"y":111.06799,},
+    {"speed":100.0,"x":294.0,"y":124.0,},
+    {"speed":100.0,"x":261.0,"y":170.0,},
+    {"speed":100.0,"x":275.0,"y":278.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
